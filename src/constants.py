@@ -1,0 +1,16 @@
+ROLLUP_PRODUCT = "Roll Up Product"
+KIT_INDICATOR = "Kit or Product"
+
+PARENT_BOM = "Parent Product"
+COMPONENT_BOM = "Component"
+LINK_QUANTITY_BOM = "Link Quantity"
+
+ORDER_NUMBER_ZOPNDASH = "OrderNumber"
+PRODUCT_ZOPNDASH = "Product"
+ORDER_QUANTITY_ZOPNDASH = "Qty"
+SALES_ZOPNDASH = "Amount"
+
+ORDER_NUMBER_ZSALDASH = "InvoiceNum"
+PRODUCT_ZSALDASH = "Product"
+ORDER_QUANTITY_ZSALDASH = "Qty"
+SALES_ZSALDASH = "Sales"
